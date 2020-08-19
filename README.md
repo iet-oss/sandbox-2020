@@ -2,9 +2,10 @@
 A repo to play around with Git and Github. 
 
 ## Participants
-1.[Shivam Yadav](https://github.com/ExpressHermes)
-2.[Ashutosh Kumar](https://github.com/ashutoshkumar6)
-3.[Yash Jaiswal](https://github.com/yash7047)
+1. [Shivam Yadav](https://github.com/ExpressHermes)
+2. [Ashutosh Kumar](https://github.com/ashutoshkumar6)
+3. [Yash Jaiswal](https://github.com/yash7047)
+4. [Arnab Debnath](https://github.com/ArnabDebnath098)
 
 
 ## Directions
