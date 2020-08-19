@@ -3,6 +3,7 @@ A repo to play around with Git and Github.
 
 ## Participants
 1. [Shivam Yadav](https://github.com/ExpressHermes)
+2.[Ashutosh Kumar](https://github.com/ashutoshkumar6)
 
 
 ## Directions
